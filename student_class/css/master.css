@@ -1,0 +1,63 @@
+.container {
+    text-align: center;
+    width: 50%;
+    margin-top: 20px;
+}
+
+table tr td{
+  display: inline-block;
+  width: 300px;
+}
+
+.form-group{
+    width: 80%;
+}
+.form-group input{
+    width:70%;
+}
+
+.form-group label{
+    width:30%;
+    float:left;
+    padding-right:10px;
+    text-align: right;
+}
+
+
+table thead th{
+    background-color: #292b2c;
+    color:#fff;
+    border: 1px solid #fff;
+    width: 33%;
+}
+
+td span{
+  display: inline-block;
+  width: 30%;
+  padding: 10px;
+}
+
+.success{
+  color:#229101;
+}
+
+#messageNav{
+  display: inline-block;
+  width: 100%;
+}
+
+#messageNav li{
+  display: inline-block;
+  margin: 10px 20px;
+  width: 25%;
+}
+
+.glyphicon{
+  cursor: pointer;
+}
+
+.error{
+  font-size: 28px;
+  font-weight: bold;
+  color: #ccc;
+}
